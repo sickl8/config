@@ -131,3 +131,4 @@ cde()	{
 }
 
 alias aa='gcc -Wall -Werror -Wextra'
+alias d8='date +%H:%M\ %d/%m/%y'
