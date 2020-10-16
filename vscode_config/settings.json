@@ -1,0 +1,13 @@
+{
+	"files.autoSave": "afterDelay",
+	"launch": {
+
+
+	
+	},
+	"terminal.integrated.shellArgs.osx": [
+		"/Users/isaadi/Desktop/scripts/vsscript.sh"
+	],
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false
+}
