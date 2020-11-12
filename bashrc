@@ -132,3 +132,13 @@ cde()	{
 
 alias aa='gcc -Wall -Werror -Wextra'
 alias d8='date +%H:%M\ %d/%m/%y'
+export PATH="$HOME/.brew/bin:$PATH"
+export PATH=/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+export PATH=/goinfre/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+export PATH=/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/goinfre/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+export PATH=/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/goinfre/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+export PATH=/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/goinfre/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+export PATH=/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/goinfre/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+export PATH=/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/goinfre/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/Users/isaadi/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Users/isaadi/Desktop/scripts
+alias cc='gcc -Wall -Wextra -Werror'
+alias code='open -a Visual\ Studio\ Code'

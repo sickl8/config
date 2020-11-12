@@ -2,12 +2,12 @@
 	"files.autoSave": "afterDelay",
 	"launch": {
 
-
-	
 	},
 	"terminal.integrated.shellArgs.osx": [
 		"/Users/isaadi/Desktop/scripts/vsscript.sh"
 	],
 	"editor.insertSpaces": false,
-	"editor.detectIndentation": false
+	"editor.detectIndentation": false,
+	"editor.rulers": [80],
+	"42header.email": "isaadi@student.1337.ma"
 }
