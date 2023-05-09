@@ -112,5 +112,8 @@ fi
 alias aa='gcc -Wall -Werror -Wextra'
 alias d8='date +%H:%M\ %d/%m/%y'
 alias cc='gcc -Wall -Wextra -Werror'
+alias code='open -a Visual\ Studio\ Code'
 
-export PATH="$PATH:$HOME/goinfre/.brew/bin:$HOME/.brew/bin:$HOME/.scripts:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/"
+export GITHUB_URL_PREFIX="https://github.com/sickl8"
+
+export PATH="$PATH:$HOME/goinfre/.brew/bin:$HOME/.brew/bin:$HOME/.scripts"
