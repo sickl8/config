@@ -6,5 +6,6 @@
 	"editor.rulers": [
 		80
 	],
-	"42header.email": "isaadi@student.1337.ma"
+	"42header.email": "isaadi@student.1337.ma",
+	"editor.renderWhitespace": "all"
 }
